@@ -1,4 +1,8 @@
 feature text is created in the feature1 branch
 commit-1 done
+<<<<<<< HEAD
 commit-2 done
 commit-3 done
+=======
+commit-2 done
+>>>>>>> 60acacba6178a8523f6f7f36595a94375104525c
