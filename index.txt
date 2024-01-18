@@ -5,5 +5,3 @@ Ncommit1
 Ncommit2
 NNcommit3
 Scommit1
-Scommit2
-Scommit3
